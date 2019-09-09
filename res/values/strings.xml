@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Fleet Control System</string>
+    <string name="title_activity_connection">Connection</string>
+</resources>
